@@ -33,6 +33,8 @@ git add - git commit -m ' ' - git log
 
 git merge -  соединение веток
 
+удаление ветки: git branch -d название файла 
+
 
 
 
