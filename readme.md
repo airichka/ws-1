@@ -35,7 +35,7 @@ git merge -  соединение веток
 
 удаление ветки: git branch -d название файла 
 
-
+.gitignore
 
 
 
