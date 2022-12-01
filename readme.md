@@ -31,6 +31,10 @@ git branch name - создание ветки
 Когда ветку и внесли изменения в файл, нужно:
 git add - git commit -m ' ' - git log
 
+git merge -  соединение веток
+
+
+
 
 
 
